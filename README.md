@@ -1,4 +1,4 @@
-# ConverterRoman
+# Converter Roman
 
 Converter Roman created for interview exercise with JavaScript, HTML and CSS.
 
